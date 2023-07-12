@@ -1,4 +1,4 @@
-# ICSE24-Artifact-FocalMethodStudy
+# Artifact-FocalMethodStudy
 Artifact of "An Empirical Study on Focal Methods in Deep-Learning-Based Approaches for Assertion Generation".
 
 The datasets and our evaluation results can be found at:
