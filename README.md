@@ -2,7 +2,7 @@
 Artifact of "An Empirical Study on Focal Methods in Deep-Learning-Based Approaches for Assertion Generation".
 
 The datasets used in our experiments can be found at:
-https://doi.org/10.5281/zenodo.8401726
+https://zenodo.org/records/10628434
 
 
 ## Datasets
