@@ -1,7 +1,7 @@
 # Artifact-FocalMethodStudy
 Artifact of "An Empirical Study on Focal Methods in Deep-Learning-Based Approaches for Assertion Generation".
 
-The datasets used in our experiments can be found at:
+The datasets and evaluation results used in our experiments can be found at:
 https://zenodo.org/records/10628434
 
 
